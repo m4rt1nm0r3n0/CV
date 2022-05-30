@@ -1,0 +1,163 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Martin",
+      "surnames": "Moreno",
+      "title": "#zoho evangelist",
+      "description": "Absolutely passionate about the Zoho ecosystem (CRM, Campaigns, Analytics, Books, Flow, Forms, Desk, People, Sign, all the Zoho One suite). Expert in complex, multicountry, multilingual implementations. Integration between Zoho apps. With external apps too. Deluge development, creation of apps with Creator (Low Code), workflow automation, extreme customization and adaptation to all types of business models. APIS, Webhooks, Blueprints... I have more than 20 years of experience in technology, the last 3 exclusively in Zoho solutions. Implementations in 12 different countries.",
+      "avatar": {
+        "alt": "yo_prado._BN_MIN.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/30/d2348588-ddee-4ba1-b225-943f2cdc78d1_yo_prado.png"
+      },
+      "location": {
+        "notes": "Conil de la Frontera (Spain)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/m4rt1nm0r/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I'm very, very senior. You can call me grandpa.",
+        "fact": "* I was born when man had not reached the moon\n"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zoho",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/m4rt1nm0r/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Zoho",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
