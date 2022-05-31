@@ -1,382 +1,163 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
-    "aboutMe": {
-      "profile": {
-        "name": "Martín",
-        "surnames": "Moreno Moreno",
-        "title": "Absolutamente apasionado por el ecosistema de Zoho (CRM, Campaigns, Analytics, Books, Flow, Forms, Desk, People, Sign, toda la suite Zoho One). Experto en implementaciones complejas, multipaís y multilingües. Integración entre las aplicaciones de Zoho. Con aplicaciones externas también. Desarrollo en Deluge, creación de apps con Creator (Low Code), automatización de flujos de trabajo, personalización extrema y adaptación a todo tipo de modelos de negocio. APIS, Webhooks, Blueprints... Tengo más de 20 años de experiencia en tecnología, los últimos 3 exclusivamente en soluciones Zoho. Implementaciones en 12 países diferentes.\n",
-        "avatar": {
-          "alt": "foto de Martín Moreno",
-          "link": "https://secure.gravatar.com/avatar/de164bc1dfdb790daff454f985ddc81f"
-        },
-        "birthday": "1968-08-20"
+  "aboutMe": {
+    "profile": {
+      "name": "Martin",
+      "surnames": "Moreno",
+      "title": "#zoho evangelist",
+      "description": "Absolutely passionate about the Zoho ecosystem (CRM, Campaigns, Analytics, Books, Flow, Forms, Desk, People, Sign, all the Zoho One suite). Expert in complex, multicountry, multilingual implementations. Integration between Zoho apps. With external apps too. Deluge development, creation of apps with Creator (Low Code), workflow automation, extreme customization and adaptation to all types of business models. APIS, Webhooks, Blueprints... I have more than 20 years of experience in technology, the last 3 exclusively in Zoho solutions. Implementations in 12 different countries.",
+      "avatar": {
+        "alt": "yo_prado._BN_MIN.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/30/d2348588-ddee-4ba1-b225-943f2cdc78d1_yo_prado.png"
       },
-      "relevantYearsOfExperience": 30,
-      "relevantLinks": [
+      "location": {
+        "notes": "Conil de la Frontera (Spain)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/m4rt1nm0r/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Formar parte del equipo que diseñó la estrategia de globalización de Telefónica (desde Telefónica Mobile Solutions), el proyecto C06.I'm very, very senior. You can call me grandpa.",
+        "fact": "\n"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zoho",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/m4rt1nm0r/",
-          "description": "Mi perfil en LinkedIn"
+          "URL": "https://www.linkedin.com/in/m4rt1nm0r/"
         }
-      ],
-      "significativeRelationships": [
-        {
-          "name": "Juan",
-          "surnames": "Cumbrado",
-          "title": "Director de innovación en Mapfre",
-          "description": "Me acompaña desde hace dos décadas en mi crecimiento profesional, y me orienta en el complicado mundo de la interacción entre economía, innovación y empresa.",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/cumbrado/"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Ignacio",
-          "surnames": "García",
-          "title": "Head of Brasil y Latam en Rede Corporativa.",
-          "description": "Amigo y socio, fue el culpable de mi entrada en el ecosistema de Zoho y me ha acompañado en increíbles experiencias de implementación y desarrollo en medio mundo.\n",
-          "contact": {
-            "publicProfiles": [
-              {
-                "type": "linkedin",
-                "URL": "https://www.linkedin.com/in/ignaciogarcia1/"
-              }
-            ]
-          }
-        }
-      ],
-      "interestingFacts": [
-  
-        {
-          "fact": "Formar parte del equipo que diseñó la estrategia de globalización de Telefónica (desde Telefónica Mobile Solutions), el proyecto C06."
-        },
-        {
-          "fact": "Haber vivido y trabajado, montando empresas desde cero, en Brasil y México."
-        },
-        {
-          "fact": "Apasionado de las soluciones Open Source (que he implementado durante décadas) tuve mi "caída del caballo" con Zoho. Puede que no sea tecnológicamente "sexy", pero definitivamente es la mejor solución en relación coste/beneficio para empresas pequeñas y medianas con poco o nulo skill técnico."
-        },
-        {
-          "topic": "¿Cuáles son tus principales herramientas de trabajo (IDEs, editores de texto, clientes de correo, Excel...) y cómo las utilizas (plugins, configuraciones, trucos)?",
-          "fact": "Organizo mi tareas profesionales con **Zoho Task** y a veces (cuando el cliente lo requiere) con **Trello**.\n\nProgramo HTML/CSS/JavaScript con **Visual Studio Code**. Uso algunas extensiones como ‘Deluge-vscode’ para el desarrollo en Zoho Deluge.\n\nTambién uso bastante **Postman**, y para tareas ofimáticas y productividad uso casi en exclusiva la suite de Zoho Workplace."
-        },
-        {
-          "topic": "¿Qué recursos online (webs, blogs, apps, foros, etc) usas para ayudarte a desempeñar tu trabajo?",
-          "fact": "Connect es mi fuente de información pricipal sobre el ecosistema Zoho. También 'Zoho Inspire Global Partner'."
-        },
-        {
-          "topic": "¿Qué nuevas tecnologías y/o herramientas te llaman especialmente la atención y por qué?",
-          "fact": "Estoy absolutamente maravillado con ZIA (la inteligencia artificial de Zoho) y estoy bastante centrado en las herramientas RPA para, por ejemplo, Zoho Sales IQ."
-        },
-        {
-          "topic": "¿Hay alguna empresa tecnológica que te llame la atención por lo bien que lo está haciendo?",
-          "fact": "Obviamente, Zoho. Soy consciente de que no luce "sexy" para muchos programadores, pero su aproximación a los usuarios empresariales pequeños y medianos es espectacular. Además, claro, de la filosofía de la empresa, en el extremo diametralmente opuesto a la "cultura startup": una empresa sólida que crece sin recurrir a financiación externa, en base únicamente a su crecimiento orgánico."
-        },
-        {
-          "topic": "¿Cómo intentas mantener actualizados tus conocimientos y habilidades profesionales?",
-          "fact": "Cómo dejar de intentarlo, más bien. La adquisición de habilidades es un porcentaje importante de mi tarea diaria, es imprescindible en un entorno en constante y frenética evolución."
-        }
-      ],
-    },
-    "experience": {
-      "jobs": [
-        {
-          "organization": {
-            "name": "Rede Corporativa",
-            "description": "Advanced Partner de Zoho en Latam, referencia para toda la Región en People y Recruit",
-            "URL": "https://www.redecorporativa.com/",
-            "image": {
-              "alt": "Logo de Rede Corporativa",
-              "link": "https://www.redecorporativa.com/rede_original_icono.png"
-            },
-            "location": {
-              "country": "BR",
-              "region": "São Paulo",
-              "municipality": "São Paulo",
-              "postalCode": "04551-065",
-              "address": "Av. Chedid Jafet"
-            }
-          },
-          "type": "Zoho partner",
-          "roles": [
-            {
-              "name": "Socio",
-              "startDate": "2020-03-01",
-              "challenges": [
-                {
-                  "description": "Consecución en un solo año de la condición de Advanced Partner, con un incremento interanual del 196%",
-                  "actions": [
-                    "Consecución de objetivos Advanced Partner.",
-                    "Diversificación de clientes e incremento de cartera."
-                  ]
-                },
-                {
-                  "description": "Certificación en todos los productos de la suite Zoho One.",
-                  "actions": [
-                    "Certificación en CRM.",
-                    "Certificación en People.",
-                    "Certificación en Recruit, etc."
-                  ]
-                },
-                {
-                  "description": "Apertura de negocio en toda Latam, USA, Europa y Asia."
-                }
-              ],
-              "competences": [
-                {
-                  "name": "Zoho CRM",
-                  "type": "tool",
-                  "description": "Top-rated Sales CRM Software by Customers"
-                },
-                {
-                  "name": "Zoho Campaigns",
-                  "type": "tool",
-                  "description": "Email marketing software"
-                },
-                {
-                  "name": "Zoho People",
-                  "type": "tool",
-                  "description": "Cloud based HRMS - HR System"
-                },
-                {
-                  "name": "Zoho Deluge",
-                  "type": "technology",
-                  "description": "Online scripting language"
-                },
-                {
-                  "name": "Zoho Flow",
-                  "type": "tool",
-                  "description": "Integration platform that connects different applications together"
-                },
-                {
-                  "name": "Zoho Recruit",
-                  "type": "tool",
-                  "description": "Leader in Talent Acquisition Technology Value Matrix"
-                },
-                {
-                  "name": "Zoho Creator",
-                  "type": "tool",
-                  "description": "Best custom low-code application development platform"
-                },
-                {
-                  "name": "Zoho Forms",
-                  "type": "tool",
-                  "description": "Form builder"
-                },
-                 {
-                  "name": "Zoho Desk",
-                  "type": "tool",
-                  "description": "Customer Service Software for Context-Aware Support"
-                },
-                 {
-                  "name": "Zoho One",
-                  "type": "tool",
-                  "description": "The Operating System for Business"
-                },                
-                {
-                  "name": "Trello",
-                  "type": "tool"
-                },
-                {
-                  "name": "Nginx",
-                  "type": "tool"
-                },
-                {
-                  "name": "Git",
-                  "type": "technology"
-                }
-              ],
-              "referrals": [
-                {
-                  "name": "Ignacio",
-                  "surnames": "García",
-                  "title": "Head of Brasil y Latam en Rede Corporativa",
-                  "contact": {
-                    "publicProfiles": [
-                      {
-                        "type": "linkedin",
-                        "URL": "https://www.linkedin.com/in/ignaciogarcia1/"
-                      }
-                    ]
-                  }
-                },
-              ]
-            }
-          ]
-        },
-        {
-          "organization": {
-            "name": "M&GT Consulting México",
-            }
-          },
-          "type": "consulting",
-          "roles": [
-            {
-              "name": "Director General",
-              "startDate": "2016-10-01",
-              "finishDate": "2020-02-28",
-              "competences": [
-                {
-                  "name": "Odoo",
-                  "type": "tool"
-                },
-                {
-                  "name": "Zoho CRM",
-                  "type": "tool"
-                },
-                {
-                  "name": "Zoho Mail",
-                  "type": "tool"
-                },
-                {
-                  "name": "Zoho Books",
-                  "type": "tool"
-                }
-              ],
-        {
-          "organization": {
-            "name": "Vector ITC Group"
-          },
-          "type": "academicalInstitution",
-          "roles": [
-            {
-              "name": "Director Comercial",
-              "startDate": "2014-02-01",
-              "finishDate": "2016-09-30",
-            }
-          ]
-        }
-      ],
-
-    "knowledge": {
-      "languages": [
-        {
-          "name": "ES",
-          "level": "Native or bilingual proficiency"
-        },
-        {
-          "name": "EN",
-          "level": "Full professional proficiency"
-        },
-        {
-          "name": "PT",
-          "level": "Full professional proficiency"
-        }
-      ],
-      "hardSkills": [
-        {
-          "skill": {
-            "name": "Zoho One",
-            "type": "tool",
-            "description": "Administración, configuración, gestión avanzada y desarrollos a medida."
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "Deluge",
-            "type": "technology"
-          },
-          "level": "expert"
-        }
-      ],
-      "softSkills": [
-        {
-          "skill": {
-            "name": "Liderazgo",
-            "type": "practice",
-            "description": "Crear equipos sólidos y motivados en torno a objetivos comunes."
-          },
-          "level": "expert"
-        },
-        {
-          "skill": {
-            "name": "Orientado a resultados",
-            "type": "practice",
-            "description": "Acabar proyectos, además de empezarlos."
-          },
-      "studies": [
-        {
-          "studyType": "officialDegree",
-          "degreeAchieved": true,
-          "name": "CCII",
-          "description": "Licenciado en CCII",
-          "startDate": "1986-09-15",
-          "finishDate": "1991-06-30",
-          "institution": {
-            "name": "UC",
-            "description": "Universidad Complutense",
-            "URL": "https://www.ucm.es",
-            "image": {
-              "alt": "logo de UC",
-              "link": "https://www.ucm.es/themes/ucm16/media/img/logo.png"
-            },
-            "location": {
-              "country": "ES",
-              "region": "Madrid"
-            }
-          }
-        },
       ]
     },
-    "careerPreferences": {
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "manfred",
-            "URL": "https://www.getmanfred.com/profile/m4rt1n"
-          }
-        ]
-      },
-      "status": "Available",
-      "requirements": {
-        "compensation": {
-          "salary": {
-            "currency": "EUR",
-            "from": 55000
-          },
-          "equity": {
-            "mustHave": true,
-            "from": 10
-          },
-          "perks": {
-            "mustHave": [
-              "Horario Flexible",
-              "BYOD"
-            ],
-            "niceToHave": [
-              "Seguro Médico",
-              "Clases de Idiomas"
-            ]
-          }
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
         },
-        "contractTypes": [
-          "permanent",
-          "freelance"
-        ],
-        "location": {
-          "remoteOnly": true,
-          "openToRelocate": false,
-          "openToRemote": true,
-          "workingAreas": [
-            {
-              "location": {
-                "country": "ES",
-                "region": "Andalucía",
-                "municipality": "Conil de la Frontera"
-              },
-            },
-          ],
-          "comments": "I prefer to work remotely."
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Zoho",
+          "type": "technology"
         }
-      },
+      ]
     }
   }
+}
