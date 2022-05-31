@@ -152,6 +152,61 @@
           "type": "technology"
         }
       ]
+<<<<<<< Updated upstream
+=======
+    },
+    "careerPreferences": {
+      "contact": {
+        "publicProfiles": [
+          {
+            "type": "manfred",
+            "URL": "https://www.getmanfred.com/profile/m4rt1n"
+          }
+        ]
+      },
+      "status": "Available",
+      "requirements": {
+        "compensation": {
+          "salary": {
+            "currency": "EUR",
+            "from": 55000
+          },
+          "equity": {
+            "mustHave": true,
+            "from": 10
+          },
+          "perks": {
+            "mustHave": [
+              "Horario Flexible",
+              "BYOD"
+            ],
+            "niceToHave": [
+              "Seguro Médico",
+              "Clases de Idiomas",
+              "Formación"
+            ]
+          }
+        },
+        "contractTypes": [
+          "permanent",
+          "freelance"
+        ],
+        "location": {
+          "remoteOnly": true,
+          "openToRelocate": false,
+          "openToRemote": true,
+          "workingAreas": [
+            {
+              "location": {
+                "country": "ES",
+                "region": "Andalucía",
+                "municipality": "Conil de la Frontera"
+              },
+            },
+          ],
+          "comments": "I prefer to work remotely."
+        }
+      },
+>>>>>>> Stashed changes
     }
   }
-}
